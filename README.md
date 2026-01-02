@@ -1,12 +1,12 @@
 # The Essence of TDD
 
-This repository documents an observation:
+This repository documents an observation.
 
 Sometimes tests pass, coverage improves, refactoring feels safe —
 and yet, the design stops changing.
 
 This is not a failure of testing tools.
-It is often a failure to notice which assumptions became settled.
+It is often a failure to notice which assumptions quietly became settled.
 
 This document attempts to make that moment visible.
 
@@ -14,15 +14,15 @@ This document attempts to make that moment visible.
 
 ## Why this exists
 
-Test-Driven Development is often described as a way to discover design.
+Test-Driven Development is often described as a way to *discover* design.
 
-In practice, teams reach a point where tests mainly confirm
+In practice, many teams reach a point where tests mainly confirm
 what has already been decided, rather than revealing anything new.
 
-When that happens, green tests preserve assumptions
-instead of challenging them.
+When that happens, green tests stop asking questions.
+They begin to preserve assumptions instead of challenging them.
 
-This repository explores:
+This repository exists to explore:
 - when that shift occurs
 - why it is hard to notice
 - how some teams detect it earlier
@@ -36,7 +36,11 @@ This is not a framework or a methodology.
 It is a collection of observations about:
 - design discovery
 - test scope and boundaries
-- the moment assumptions become irreversible
+- invariants and assumptions
+- the moment design decisions become hard to reverse
+
+The focus is not on *how to write tests*,
+but on *what tests actually settle*.
 
 ---
 
@@ -45,27 +49,53 @@ It is a collection of observations about:
 This is NOT:
 - a replacement for unit testing
 - an argument against incremental development
-- a prescription for how to practice TDD
+- a checklist or a process guide
 - a claim that “most people are doing TDD wrong”
+
+If your current practice works, this repository does not argue against it.
 
 ---
 
 ## Read the document
 
-→ [The Essence of TDD – Full Text](ESSENCE_OF_TDD.md)
+→ **[The Essence of TDD – Full Text](ESSENCE_OF_TDD.md)**
 
 ---
 
 ## Discussion
 
-Discussion and counterexamples are welcome.
+Discussion, counterexamples, and failure cases are welcome.
 
-I may not actively respond.
-The goal is to surface patterns, not to defend a position.
+This repository uses **GitHub Discussions** as its primary interaction surface.
+The goal is to surface patterns and shared experiences,
+not to defend a single position.
+
+I may not actively respond to every thread.
+
+---
+
+## What this repository is not intended for
+
+- This is not a library or framework.
+- There are no releases, packages, or deployable artifacts.
+- Nothing here is meant to be imported or executed.
+
+This repository exists to sharpen how we *think* about TDD,
+not to provide code to run.
+
+---
+
+## Security
+
+This repository does not ship executable code, libraries, or services.
+As such, there is no security advisory process or vulnerability reporting channel.
 
 ---
 
 ## License & Attribution
 
-License: CC BY-ND 4.0  
-Attribution required. No derivatives without permission.
+License: **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**
+
+Attribution is required.  
+Redistribution is permitted.  
+Modified versions may not be distributed without permission.
