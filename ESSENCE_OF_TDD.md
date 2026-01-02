@@ -652,6 +652,12 @@ Settle one fatal assumption.
 
 That is **Real TDD**.
 
+This is not a recipe, a framework, or a new flavor of TDD.
+If you are looking for a checklist, this document will disappoint you.
+
+It exists to help you notice when learning has stopped —
+and to give you a way to restart it.
+
 ---
 
 © 2025 Felix Asher
