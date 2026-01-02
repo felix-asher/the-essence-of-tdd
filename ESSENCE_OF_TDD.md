@@ -65,7 +65,7 @@ How to read this document:
 15. The “Stacked Development” Trap by Environment
 16. Where Vertical Slice TDD Fails
 
-Afterword
+Afterword  
 Appendix: Success Metrics
 
 ---
