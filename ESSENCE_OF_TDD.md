@@ -658,6 +658,9 @@ If you are looking for a checklist, this document will disappoint you.
 It exists to help you notice when learning has stopped —
 and to give you a way to restart it.
 
+Some readers have asked how to recognize progress in practice.
+A non-normative note is available in `appendix/SUCCESS_METRICS.md`.
+
 ---
 
 © 2025 Felix Asher
