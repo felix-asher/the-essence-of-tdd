@@ -52,7 +52,7 @@ This is NOT:
 
 ## Read the document
 
-→ [The Essence of TDD – Full Text](./docs/essence-of-tdd.md)
+→ [The Essence of TDD – Full Text](./essence-of-tdd.md)
 
 ---
 
