@@ -1,6 +1,8 @@
 # Contributing
 
 Thanks for your interest in this repository.
+If you are unsure whether something belongs as a contribution,
+starting a discussion is always the right first step.
 
 This project is not a software product, a framework, or a methodology.
 It is a written exploration of how test-driven development functions
@@ -61,6 +63,7 @@ Translations are not accepted via pull request.
 
 If you are interested in translating this document,
 please open a discussion first.
+The goal is to preserve intent and tone, not to localize concepts aggressively.
 
 ## Forking
 
