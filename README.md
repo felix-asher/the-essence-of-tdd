@@ -58,7 +58,10 @@ If your current practice works, this repository does not argue against it.
 
 ## Read the document
 
-→ **[The Essence of TDD – Full Text](ESSENCE_OF_TDD.md)**
+→ **Read the full text**
+- [GitHub](ESSENCE_OF_TDD.md)
+- [Leanpub (EPUB/PDF)](https://leanpub.com/theessenceoftdd)
+
 
 ---
 
