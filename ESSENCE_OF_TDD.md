@@ -666,8 +666,8 @@ to help you notice the moment when learning has stalled —
 and to suggest a way back into motion.
 
 Some readers have asked how progress can be recognized in practice.
-A non-normative note on this can be found in
-`appendix/SUCCESS_METRICS.md`.
+
+A non-normative note on this can be found in [appendix/SUCCESS METRICS](./appendix/SUCCESS_METRICS.md).
 
 ---
 
