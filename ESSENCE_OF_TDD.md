@@ -642,24 +642,32 @@ A discovery tool is dangerous where discovery is forbidden.
 
 ## Afterword
 
-TDD is not a way to write tests.
+TDD is not a technique for writing tests.
 
-**It is a discipline for defining the premises on which your system holds.**
+It is a discipline for working with the premises on which a system stands —
+often before those premises are visible, named, or agreed upon.
 
-Start with a vertical slice.
-Welcome the pain.
-Settle one fatal assumption.
+Starting with a vertical slice is not about coverage or confidence.
+It is about contact.
+Contact with reality, and with the assumptions that break when touched.
 
-That is **Real TDD**.
+A green test does not mean “this is correct.”
+It means that one fatal assumption has been settled —
+or quietly fixed in place.
 
-This is not a recipe, a framework, or a new flavor of TDD.
-If you are looking for a checklist, this document will disappoint you.
+That is the point where learning either continues, or stops.
 
-It exists to help you notice when learning has stopped —
-and to give you a way to restart it.
+This document does not offer a recipe, a framework,
+or a new flavor of TDD.
+If you are looking for a checklist, it will disappoint you.
 
-Some readers have asked how to recognize progress in practice.
-A non-normative note is available in `appendix/SUCCESS_METRICS.md`.
+It exists for a narrower purpose:
+to help you notice the moment when learning has stalled —
+and to suggest a way back into motion.
+
+Some readers have asked how progress can be recognized in practice.
+A non-normative note on this can be found in
+`appendix/SUCCESS_METRICS.md`.
 
 ---
 
